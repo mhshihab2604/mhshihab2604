@@ -22,10 +22,6 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=242424)](https://www.linkedin.com/in/mehedihasanshihab/)
 </h3>
 
-### Connect with me:
-
-[![website](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/mhshihab2604.com#gh-light-mode-only)
-[![website](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/mhshihab2604.com#gh-dark-mode-only)
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -57,18 +53,12 @@
 
 </h3>
 
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/self-host-your-nuxt-app-with-coolify>Self-Host Your Nuxt App With Coolify</a></li><li><a href=https://mokkapps.de/blog/simpler-two-way-binding-in-vue-with-define-model>Simpler Two-Way Binding in Vue With defineModel</a></li><li><a href=https://mokkapps.de/blog/login-at-supabase-via-rest-api-in-playwright-e2e-test>Login at Supabase via REST API in Playwright E2E Test</a></li><li><a href=https://mokkapps.de/blog/use-nitro-as-mock-server>Use Nitro as Mock Server</a></li><li><a href=https://mokkapps.de/blog/unlocking-the-power-of-v-for-loops-in-vue-with-these-useful-tips>Unlocking the Power of v-for Loops in Vue With These Useful Tips</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/152>Weekly Vue News #152 - Self-Host Your Nuxt App With Coolify</a></li><li><a href=https://weekly-vue.news/issues/151>Weekly Vue News #151 - Cache Component Instances With the KeepAlive Component</a></li><li><a href=https://weekly-vue.news/issues/150>Weekly Vue News #150 - Change Status Code of the Response in Nuxt</a></li><li><a href=https://weekly-vue.news/issues/149>Weekly Vue News #149 - NuxtHub: A deployment and administration platform for Nuxt</a></li><li><a href=https://weekly-vue.news/issues/148>Weekly Vue News #148 - How I Write Class & Style Bindings</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<i>Happy Coding!</i> 😊
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
+</br>
