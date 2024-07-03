@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Shihab</h1>
 <h3 align="center">A passionate Junior Front-End developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=araf7-7&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mhshihab2604&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
@@ -53,7 +53,7 @@
 
 </h3>
 
-<i>Happy Coding!</i> 😊
+<h1>Happy Coding!</h1> 😊
 
 </div>
 
@@ -62,5 +62,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhshihab2604&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mhshihab2604 Github Stats">
 
 </br>
-
-<!-- https://github-readme-stats.vercel.app/api?username=araf7-7&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight -->
