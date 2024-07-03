@@ -57,7 +57,7 @@ Hello, I’m Shihab, .my core skill is based on html, css, javaScript<br>and I l
 
 </h3>
 
-<h1>😊 Happy Coding!</h1>
+<i>😊 Happy Coding!</i>
 
 </div>
 
