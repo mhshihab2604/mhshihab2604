@@ -23,8 +23,35 @@
 </h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+<h3 align="center">Languages and Tools:</h3>
+
+<h3 align="center">
+    
+![HTML5](https://img.shields.io/badge/-HTML5-1A1B27?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-1A1B27?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1A1B27?style=flat&logo=javascript&labelColor=252526)
+![React](https://img.shields.io/badge/-React-1A1B27?style=flat&logo=react&labelColor=252526)
+![React-Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-1A1B27?style=flat&logo=Node.js&labelColor=252526)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1A1B27?style=flat&logo=mongodb&labelColor=252526)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-1A1B27?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=252526)
+![SHADCN/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-1A1B27?style=flat&logo=JSON&logoColor=ffffff&labelColor=252526)
+![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-1A1B27?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=252526)
+![Git](https://img.shields.io/badge/-Git-1A1B27?style=flat&logo=git&logoColor=F05032&labelColor=252526)
+![GitHub](https://img.shields.io/badge/-GitHub-1A1B27?style=flat&logo=github&logoColor=ffffff&labelColor=252526)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-1A1B27?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![NPM](https://img.shields.io/badge/-npm-1A1B27?style=flat&logo=npm&labelColor=252526)
+![ESlint](https://img.shields.io/badge/-ESlint-1A1B27?style=flat&logo=ESlint&labelColor=4B32C3)
+
+![Windows](https://img.shields.io/badge/-Windows-1A1B27?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
+</h3>
+
 <h2>Latest Blog Posts</h2>
   <ul>
   <li><a href=https://mokkapps.de/blog/self-host-your-nuxt-app-with-coolify>Self-Host Your Nuxt App With Coolify</a></li><li><a href=https://mokkapps.de/blog/simpler-two-way-binding-in-vue-with-define-model>Simpler Two-Way Binding in Vue With defineModel</a></li><li><a href=https://mokkapps.de/blog/login-at-supabase-via-rest-api-in-playwright-e2e-test>Login at Supabase via REST API in Playwright E2E Test</a></li><li><a href=https://mokkapps.de/blog/use-nitro-as-mock-server>Use Nitro as Mock Server</a></li><li><a href=https://mokkapps.de/blog/unlocking-the-power-of-v-for-loops-in-vue-with-these-useful-tips>Unlocking the Power of v-for Loops in Vue With These Useful Tips</a></li>
