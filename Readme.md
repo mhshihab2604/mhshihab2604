@@ -22,6 +22,11 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=242424)](https://www.linkedin.com/in/mehedihasanshihab/)
 </h3>
 
+### Connect with me:
+
+[![website](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/mhshihab2604.com#gh-light-mode-only)
+[![website](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/mhshihab2604.com#gh-dark-mode-only)
+
 
 <h3 align="center">Languages and Tools:</h3>
 
