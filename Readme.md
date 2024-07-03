@@ -17,7 +17,7 @@ Hello, I’m Shihab, .my core skill is based on html, css, javaScript<br>and I l
   </a>
      </p>
 
-<h3 align="center">## 🌐 Socials:</h3>
+<h3 align="center">🌐 Socials:</h3>
 
 <h3 align="center">
     
@@ -57,11 +57,13 @@ Hello, I’m Shihab, .my core skill is based on html, css, javaScript<br>and I l
 
 </h3>
 
-<h1>Happy Coding!</h1> 😊
+<h1>😊 Happy Coding!</h1>
 
 </div>
 
 <div align="center">
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshihab2604&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mhshihab2604 :: Top Langs" /></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhshihab2604&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mhshihab2604 Github Stats">
 
